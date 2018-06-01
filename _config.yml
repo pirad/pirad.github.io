@@ -6,3 +6,11 @@ description: stuff I want to write down
 
 
 theme: jekyll-theme-hacker
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "default"
