@@ -1,5 +1,5 @@
 huhu
 # Überschrift. #
   {% for post in site.posts limit: 5 %}
-     {{ post.title }}
+     [ {{ post.title }} ] ( {{ post.url }} )
   {% endfor %}
