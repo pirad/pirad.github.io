@@ -7,7 +7,7 @@ tags : []
 published: false
 ---
 # Kaufentscheidung sind für TV
-Bis vor kurzem hatte ich für besseren Klang am Fernseher eine [Soundbar](//www.amazon.de/dp/B00RL70QE0/). Diese hat jedoch pünktlich nach 2 Jahren Betrieb den Geist aufgegeben. Da ich den Klang des Fernsehers nicht so mag und auch ab und zu gerne vom Handy über Bluetooth Musik abspielen will, habe ich mich nach einem Ersatz umgeschaut.
+Bis vor kurzem hatte ich für besseren Klang am Fernseher eine [Soundbar](//www.amazon.de/dp/B00RL70QE0/). Diese hat jedoch pünktlich nach 2 Jahren Betrieb den Geist aufgegeben. Da ich den Klang des Fernsehers nicht so mag und auch ab und zu gerne vom Handy über Bluetooth Musik abspielen will, schaue ich mich nun nach einem Ersatz um.
 
 Ich habe mir letztens einen Bluetooth Lautsprecher gekauft und festgestellt, dass Verbindung über Bluetooth oder den Kopfhörer Ausgang bei meinem Fernseher nicht stabil genug ist. Daher ist mir eine optische Übertragung des Tons die liebste. Leider lässt sich bei meinem Fernseher die Lautstärke für den optischen Ausgang nicht ändern. Weil zwei Fernbedienungen unpraktisch sind, wäre eine Lösung mit nur einer Fernbedienung, die Fernseher und Lautstärke regelt wünschenswert. Generell ist mir ein modulares System lieber, in dem man Teile ersetzen kann, wenn sie ausfallen.
 
