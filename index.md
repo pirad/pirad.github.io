@@ -1,6 +1,5 @@
-huhu
-# Überschrift. #
+# Übersicht der Posts: #
 {% for post in site.posts limit: 5 %}
 [{{ post.title }}]({{ post.url }})
-{{post.excerpt}}
+{{post.excerpt | markdownify}}
 {% endfor %}
