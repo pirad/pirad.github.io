@@ -7,7 +7,7 @@ layout: default
 
 <p class="view"><small>by {{ page.author | default: site.author }}</small></p>
 
-{{content}}
+{{content | markdownify}}
 
 {% if page.tags %}
   <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
